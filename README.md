@@ -12,3 +12,7 @@
            - install axios
            -create a service folder in src folder  create 3 files common api ,allApi,serverurl jsfile
 
+
+url is 
+https://project-fair-nivy-app.netlify.app/
+
